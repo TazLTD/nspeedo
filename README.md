@@ -1,7 +1,7 @@
 Just an gruppe 6 inspired van
 
 
-The van will be updated он 15.3.2024
+The van will be updated on 15.3.2024
 
 
 Until then the file will be as zip
